@@ -8,7 +8,7 @@
 
     parameters: none
     return: none
-
+weqewq
 */
 function calculateTip() {
     const billTotal = document.getElementById("billamt").value;
