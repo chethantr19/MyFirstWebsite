@@ -5,7 +5,7 @@
     1. Check if bill amount has been entered and service quality selected.
     2. Calculate and display tip and amount each person has to pay
     3. Send AJAX request and alert a message using data from response 
-
+	dddddddddddddd
     parameters: none
     return: none
 weqewq
