@@ -6,6 +6,7 @@
     2. Calculate and display tip and amount each person has to pay
     3. Send AJAX request and alert a message using data from response 
 
+	bbbbbbbbbbbbbbbbbb
     parameters: none
     return: none
 
